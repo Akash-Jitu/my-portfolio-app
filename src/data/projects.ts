@@ -27,7 +27,7 @@ export const projects: Project[] = [
     description:
       "An e-commerce application designed to provide a convenient online shopping experience. The platform focuses on product discovery, shopping cart management, and a simple purchasing experience.",
     image: "/projects/ecommerce.png",
-    technologies: ["Tech1", "Tech2", "Tech3", "Tech4", "Tech5"],
+    technologies: ["JavaScript", "React", "MongoDB", "node.js", "express.js"],
     githubUrl: "#",
     liveUrl: "#",
   },
@@ -47,7 +47,7 @@ export const projects: Project[] = [
     description:
       "A company project focused on real-time GPS tracking, vehicle monitoring, and trip management. This private security application is developed for restricted company use and is not publicly accessible.",
     image: "/projects/gps-tracker.png",
-    technologies: ["Tech1", "Tech2", "Tech3", "Tech4", "Tech5"],
+    technologies: ["TypeScript", "React", "node.js", "Express.js", "Databases", "TcpIP"],
     githubUrl: "#",
     liveUrl: "#",
     isPrivate: true,
@@ -58,7 +58,7 @@ export const projects: Project[] = [
     description:
       "A pricing simulation platform designed to experiment with different pricing strategies. It provides an environment to compare pricing scenarios and understand their potential impact on business performance.",
     image: "/projects/pricing-sandbox.png",
-    technologies: ["Tech1", "Tech2", "Tech3", "Tech4", "Tech5"],
+    technologies: ["Python", "Sqlite", "streamlit", "Sql", "Matrix"],
     githubUrl: "https://github.com/Akash-Jitu/pricing_sandbox/tree/master",
     liveUrl: "#",
   },
@@ -68,7 +68,7 @@ export const projects: Project[] = [
     description:
       "An AI-powered telecom chatbot concept designed to assist customers with common telecom-related queries. It focuses on customer support, plan information, and billing and usage-related assistance.",
     image: "/projects/telecom-chatbot.png",
-    technologies: ["Tech1", "Tech2", "Tech3", "Tech4", "Tech5"],
+    technologies: ["Python", "LangChain", "Rag", "VectorDB", "Embedding Models"],
     githubUrl: "https://github.com/Akash-Jitu/Telecom-AI-Command-Center",
     liveUrl: "https://telecom-ai-command-center-dzeumrzt6nwwhjdazqcczd.streamlit.app/",
   },
